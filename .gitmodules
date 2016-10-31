@@ -4,3 +4,12 @@
 [submodule "nathco/jQuery.dragmove"]
 	path = nathco/jQuery.dragmove
 	url = https://github.com/nathco/jQuery.dragmove
+[submodule "ksylvest/jquery-gridly"]
+	path = ksylvest/jquery-gridly
+	url = https://github.com/ksylvest/jquery-gridly
+[submodule "FormstoneClassic/Dropper"]
+	path = FormstoneClassic/Dropper
+	url = https://github.com/FormstoneClassic/Dropper
+[submodule "aui/angular-drag"]
+	path = aui/angular-drag
+	url = https://github.com/aui/angular-drag
