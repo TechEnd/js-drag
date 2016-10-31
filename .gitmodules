@@ -1,0 +1,6 @@
+[submodule "skidding/dragdealer"]
+	path = skidding/dragdealer
+	url = https://github.com/skidding/dragdealer
+[submodule "nathco/jQuery.dragmove"]
+	path = nathco/jQuery.dragmove
+	url = https://github.com/nathco/jQuery.dragmove
